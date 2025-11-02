@@ -36,7 +36,7 @@ Focus on **scalable architecture, microservices, and clean code principles**.
 
 | 🧩 Language / Tech | 📝 Description & Use Cases |
 |------------------|--------------------|
-| 🐍 **Python** | Microservices with FastAPI & Flask, ORM via SQLAlchemy, package management with pip & Poetry, documentation with **Sphinx & docstrings**, testing with Pytest, Unittest, Mock |
+| 🐍 **Python** | Microservices with FastAPI & Flask, ORM via SQLAlchemy, package management with pip, documentation with Sphinx & docstrings, testing with Pytest, Unittest, Mock |
 | 🐘 **PHP** | Backend development with Laravel & CodeIgniter, ORM via Eloquent, testing with PHPUnit, documentation with PHPDoc |
 | 🟨 **JavaScript / Node.js** | Backend & realtime services with Express.js, Socket.io, RESTful, GraphQL & gRPC, ORM with Prisma, documentation with JSDoc |
 | 🧱 **SQL / NoSQL** | Database design & optimization with MySQL, PostgreSQL, MongoDB |
@@ -54,7 +54,7 @@ Focus on **scalable architecture, microservices, and clean code principles**.
 | ⚛️ **Next.js / React.js** | Dynamic front-end and SSR solutions |
 | 🎨 **Bootstrap / Tailwind CSS** | Modern, responsive UI frameworks |
 | 🗺️ **Leaflet.js / ECharts.js** | Data visualization & interactive maps |
-| 📦 **Composer / NPM / pip / Poetry** | Package & dependency management |
+| 📦 **Composer / NPM / pip** | Package & dependency management |
 | 🧪 **Postman / Swagger / Insomnia** | API testing & documentation |
 | 🧰 **Redis / RabbitMQ** | Caching & message queue management |
 | 🧱 **Eloquent / SQLAlchemy / Prisma** | ORM for structured data access |
@@ -92,8 +92,8 @@ Focus on **scalable architecture, microservices, and clean code principles**.
 
 | 🏢 Company | 💼 Role | 📅 Duration | 📝 Responsibilities & Achievements |
 |-----------------------|--------------------------|----------------------|----------------------------------------------------------|
-| **Nikan Mehr Pardazesh Afza** | DevOps Engineer | Jul 2023 – Present | Improved security & monitoring using Docker, Ansible, Prometheus, ELK Stack<br>Led sprint planning & Agile processes<br>Developed & maintained CI/CD pipelines |
-| **Ekeep Startup** | Project Manager & Scrum Master | Nov 2019 – Jul 2023 | Managed Agile projects & cross-functional teams |
+| **Nikan Mehr Pardazesh Afza** | DevOps Engineer | Jul 2023 – Present | Designing and implementing microservices architecture and service monitorings |
+| **Ekeep Startup** | Project Manager & Scrum Master | Nov 2019 – Jul 2023 | Managing projects and multidisciplinary teams, guiding sprint planning and Agile processes |
 | **Noyan Co.** | Data Visualization Engineer | Apr 2017 – Nov 2019 | Designed & developed interactive dashboards |
 | **Tasmim Yaran Co.** | Backend Developer | May 2013 – Mar 2017 | Developed scalable APIs using PHP & Python |
 | **Rahbord Co.** | Web Developer | Jul 2008 – May 2013 | Built web-based systems & applications |
