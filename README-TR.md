@@ -125,8 +125,8 @@ Odağım **ölçeklenebilir mimari, mikroservisler ve temiz kod prensipleri** ü
 
 ---
 
-[![🇬🇧 English](https://img.shields.io/badge/lang-English-blue)](README.md)
-[![🇮🇷 فارسی](https://img.shields.io/badge/lang-Farsi-green)](README-FA.md)
+[![🇬🇧 English](https://img.shields.io/badge/lang-English-blue)](README-EN.md)
+[![🇮🇷 فارسی](https://img.shields.io/badge/lang-Farsi-green)](README.md)
 [![🇹🇷 Türkçe](https://img.shields.io/badge/lang-Turkish-red)](README-TR.md)
 [![🇦🇿 Azərbaycani](https://img.shields.io/badge/lang-Azeri-lightblue)](README-AZ.md)
 [![🇸🇦 عربي](https://img.shields.io/badge/lang-Arabic-yellow)](README-AR.md)
