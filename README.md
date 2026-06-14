@@ -1,187 +1,98 @@
-<div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/6169366?v=4" alt="صمد المکچی" width="120" height="120" style="border-radius:50%;" />
+---
 
-# صمد المکچی  
+## 📁 پروژه‌های شاخص
 
-**استراتژیست بازاریابی دیجیتال | مدیر محصول چابک | توسعه‌دهنده فول‌استک | معمار سیستم**
+### پلتفرم CI/CD سازمانی
+> پیاده‌سازی کامل pipeline اتوماتیک با GitHub Actions، Docker Registry، تست‌های خودکار و deploy به Kubernetes
 
-<br>
+**تکنولوژی‌ها:** GitHub Actions | Docker | K8s | Helm
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samad-elmakchi)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/samad.elmakchi)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/989141189645)
-[![Telegram](https://img.shields.io/badge/-Telegram-0088cc?logo=telegram&logoColor=white)](https://t.me/samadelmakchi)
-[![X](https://img.shields.io/badge/-X-1DA1F2?logo=x&logoColor=white)](https://x.com/elmakchi)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white)](https://facebook.com/samad.elmakchi)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:samad.elmakchi@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/samadelmakchi)
+---
+
+### سیستم API مقیاس‌پذیر با Laravel
+> طراحی و پیاده‌سازی RESTful API بر اساس Clean Architecture، DDD، Redis Caching و مستندسازی OpenAPI
+
+**تکنولوژی‌ها:** Laravel | PostgreSQL | Redis | OpenAPI
+
+---
+
+### داشبورد مانیتورینگ کامل
+> راه‌اندازی stack کامل Prometheus + Grafana + Loki + Tempo برای مانیتورینگ سرویس‌های میکروسرویس
+
+**تکنولوژی‌ها:** Prometheus | Grafana | Loki | Tempo
+
+---
+
+### AI Agent اتوماسیون با n8n
+> طراحی workflow‌های هوشمند با n8n برای اتوماسیون فرآیندهای تجاری و ادغام با سرویس‌های مختلف
+
+**تکنولوژی‌ها:** n8n | AI Agent | Python | API
+
+---
+
+### زیرساخت ابری با Terraform
+> طراحی و پیاده‌سازی زیرساخت کامل AWS با Terraform و Ansible برای configuration management
+
+**تکنولوژی‌ها:** Terraform | Ansible | AWS | IaC
+
+---
+
+### سیستم تریدینگ الگوریتمی
+> توسعه ربات‌های تریدینگ با Python و Pine Script، تحلیل داده با Pandas و پیاده‌سازی Smart Contract
+
+**تکنولوژی‌ها:** Python | Pine Script | MQL5 | Solidity
+
+---
+
+## 💼 سوابق کاری
+
+| نقش | شرح |
+|------|------|
+| **مهندس DevOps** | طراحی و پیاده‌سازی pipeline‌های CI/CD، مدیریت کلاستر Kubernetes، مانیتورینگ با Prometheus/Grafana |
+| **توسعه‌دهنده Backend** | طراحی API‌های مقیاس‌پذیر با Laravel و FastAPI، پیاده‌سازی معماری میکروسرویس و Clean Architecture |
+| **اسکرام مستر و مالک محصول** | مدیریت تیم‌های نرم‌افزاری با متدولوژی Scrum/Kanban، استفاده از Jira، Confluence و Miro |
+| **متخصص AI و اتوماسیون** | طراحی AI Agent، اتوماسیون با n8n، پیاده‌سازی ML Pipeline برای تحلیل داده و پیش‌بینی رفتار |
+| **برنامه‌نویس بلاکچین** | توسعه Smart Contract با Solidity، ربات‌های تریدینگ با Python/MQL5 و تحلیل داده مالی |
+
+---
+
+## 🏢 مشتریان منتخب
+
+<div dir="rtl">
+
+- طب آفرین
+- نیکان مهر
+- تیراژه چاپ تبریز
+- ماشین‌سازی آقایاری
+- مرکز رشد دانشگاه آزاد
+- دانشگاه شهید مدنی
+- دانشگاه علوم پزشکی تبریز
+- پاکت نیما
 
 </div>
 
 ---
 
-### 🙋‍♂️ درباره من
+## 📫 ارتباط با من
 
-سلام 👋 من **صمد المکچی** هستم.  
-من **مهندس نرم‌افزار** و **معمار سیستم** با بیش از **بیست سال تجربه حرفه‌ای** در طراحی، توسعه و مقیاس‌پذیری **سیستم‌های تحت وب** و **معماری‌های میکروسرویس** هستم.  
-
-تلفیقی از **دانش فنی عمیق** در حوزه‌های **DevOps**، **بک‌اند**، **فرانت‌اند**، **تست** و **مستندسازی** و درک راهبردی از **رشد کسب‌وکار**، **بازاریابی دیجیتال**، **استراتژی فروش**، **تحلیل داده** و **گیمیفیکیشن** دارم که امکان **ایجاد پل میان فناوری و اهداف تجاری** را فراهم می‌کند.  
-
-تمرکز من بر **خلق محصولاتی با معماری قدرتمند و عملکرد پایدار** است که بتوانند **تجربه‌ای متمایز برای کاربر** ارائه داده و به **رشد واقعی و پایدار سازمان‌ها** منجر شوند.  
-رویکرد من بر **تفکر سیستمی**، **تحلیل داده‌محور** و **اصول مدیریت چابک** استوار است تا هر پروژه را با **کیفیت بالا** و **اثرگذاری ملموس** به نتیجه برسانم.  
+- **وبسایت:** [elmakchi.ir](https://elmakchi.ir)
+- **LinkedIn:** [samad-elmakchi](https://www.linkedin.com/in/samad-elmakchi)
+- **GitHub:** [samadelmakchi](https://github.com/samadelmakchi)
+- **Instagram:** [samad.elmakchi](https://www.instagram.com/samad.elmakchi)
 
 ---
 
-### 🛠️ مهارت‌ها
+<div dir="rtl" align="center">
 
-#### 🧠 مدیریت چابک و مهارت‌های نرم
+**مکان:** تبریز، ایران  
+**وضعیت:** آماده همکاری  
+**منطقه زمانی:** UTC+3:30 (Tehran Time)
 
-رهبری و هدایت تیم‌های چندتخصصی در محیط‌های پویا با تمرکز بر همکاری، شفافیت و تحویل مستمر ارزش.  
-توانایی ایجاد انگیزه، حل تعارض و تصمیم‌گیری مؤثر در شرایط پیچیده، همراه با رویکردی انسانی و نتیجه‌محور.  
-استفاده از متدولوژی‌های **Scrum**، **Kanban**، **Agile** و ابزارهایی مانند **Jira**، **Confluence**، **Miro** و **Trello**.
-
-| 🌀 مهارت / حوزه | 📝 توضیحات |
-|------------------|------------|
-| متدولوژی‌ها | Scrum, Kanban, Agile, Lean, Scrumban, SAFe |
-| نقش‌ها | Scrum Master, Product Owner |
-| ابزارها | Jira, Confluence, Miro, Asana, Trello, ClickUp, Monday.com |
-| رهبری تیمی | Coaching, Mentoring, ایجاد انگیزه، مدیریت تعارض، مدیریت عملکرد |
-| مهارت‌های نرم | ارتباط مؤثر، حل مسئله، تصمیم‌گیری، تفکر انتقادی، خلاقیت، مدیریت زمان، کار تیمی |
-
-
-#### 💼 بازاریابی دیجیتال و رشد
-
-طراحی و اجرای استراتژی‌های رشد پایدار با رویکرد داده‌محور. تمرکز بر بهینه‌سازی تجربه مشتری، افزایش نرخ تبدیل و توسعه برند.
-
-| 📌 حوزه / مهارت | 📝 توضیحات |
-|----------------|-------------|
-| استراتژی و اجرا | SEO, Google Ads, PPC, Content Marketing, Email Marketing, Social Media |
-| تحلیل و بهینه‌سازی | Google Analytics, Hotjar, CRO |
-| گیمیفیکیشن | طراحی با فریم‌ورک Octalysis برای افزایش تعامل کاربران |
-| داستان‌سرایی و برندینگ | Storytelling و Brand Positioning در کمپین‌ها |
-| اتوماسیون فروش و CRM | HubSpot, CRM Tools, Marketing Automation |
-
-
-#### 🤖 هوش مصنوعی و اتوماسیون هوشمند
-
-توسعه سیستم‌ها و فرآیندهای هوشمند برای تصمیم‌گیری خودکار و بهینه‌سازی عملیات.
-
-| 🛠️ حوزه / مهارت | 📝 توضیحات |
-|----------------|-------------|
-| AI Agent & Automation | طراحی Agentها برای خودکارسازی تصمیم‌گیری و فرآیندها |
-| n8n & Integration | ساخت جریان‌های هوشمند و یکپارچه‌سازی سرویس‌ها |
-| AI Coding | تولید، بازبینی و تست خودکار کد |
-| AI DevOps | اتوماسیون DevOps با تحلیل پیش‌بینانه |
-| AI Marketing | تحلیل رفتار کاربر و بهینه‌سازی کمپین‌ها |
-| Data Analytics & ML | تحلیل داده‌ها و پیش‌بینی رشد با مدل‌های ML |
-
-
-#### 🔧 دواپس و زیرساخت
-
-طراحی و پیاده‌سازی زیرساخت‌های نرم‌افزاری قابل اعتماد و مقیاس‌پذیر با تمرکز بر پایداری و امنیت.
-
-| 🛠️ مهارت | 📝 توضیحات |
-|-----------|-------------|
-| کانتینرسازی و مدیریت محیط‌ها | Docker / Compose |
-| ارکستراسیون کانتینرها | Kubernetes *(در حال یادگیری)* |
-| CI/CD | GitHub Actions, Jenkins *(در حال یادگیری)* |
-| Infrastructure as Code | Ansible, Terraform *(در حال یادگیری)* |
-| Monitoring | Prometheus, Grafana, Loki, Tempo *(در حال یادگیری)* |
-| Security | Vault *(در حال یادگیری)* |
-| Cloud | AWS *(در حال یادگیری)* |
-| Networking | Traefik (Reverse Proxy, Load Balancing) |
-
-#### 💻 توسعه نرم‌افزار و معماری
-
-ایجاد راهکارهای نرم‌افزاری پایدار و مقیاس‌پذیر با رویکرد معماری مدرن و تضمین کیفیت و عملکرد بالا.
-
-| 🧩 مهارت | 📝 توضیحات |
-|----------|------------|
-| Architecture | Microservices, Monolithic, Event-Driven, Layered |
-| Backend | PHP (Laravel), Python (FastAPI), Node.js *(در حال یادگیری)*, Go *(در حال یادگیری)* |
-| API | RESTful, GraphQL, gRPC *(در حال یادگیری)*, OpenAPI |
-| Database | MySQL, PostgreSQL, MongoDB — ORM: Eloquent, SQLAlchemy |
-| Caching & Queueing | Redis, RabbitMQ, Laravel Queues |
-| Design Patterns | Clean Architecture, DDD, CQRS, Event Sourcing, Repository |
-| Frontend | Inertia.js, Vue, Nuxt, Tailwind, Bootstrap |
-| Testing | Unit, Integration, E2E, Functional / Non-Functional |
-| Documentation | PHPDoc, JSDoc |
-
-#### 🌐 طراحی و توسعه وب
-
-طراحی تجربه‌های کاربری ساده، زیبا و مؤثر برای وب‌سایت‌ها و سیستم‌های محتوایی.
-
-| 🛠️ حوزه | 📝 توضیحات |
-|----------|------------|
-| WordPress / Joomla | طراحی و توسعه سایت‌های شرکتی، شخصی و فروشگاهی |
-| Plugin & Theme Development | توسعه و سفارشی‌سازی افزونه‌ها و قالب‌ها |
-| WooCommerce | ایجاد فروشگاه اینترنتی حرفه‌ای |
-| Elementor / Responsive Design | طراحی صفحات پیشرفته و واکنش‌گرا |
-
-#### 💹 توسعه سیستم‌های مالی و بلاکچین
-
-ترکیب دانش مالی و فناوری برای خلق راهکارهای نوآورانه در حوزه‌های تحلیل، ترید و بلاکچین.
-
-| 🛠️ مهارت | 📝 توضیحات |
-|-----------|-------------|
-| تحلیل داده‌های مالی | Python (Pandas, NumPy, TA-Lib) |
-| توسعه اندیکاتور و اکسپرت | MetaTrader 4/5 (MQL4, MQL5) |
-| استراتژی‌های معاملاتی | Pine Script (TradingView) |
-| Blockchain & Smart Contracts | Solidity, DApp Architecture, API Integration |
+</div>
 
 ---
 
-### 🎓 تحصیلات
-
-| 🎓 مدرک | 🏫 رشته | 🏛 دانشگاه | 📅 سال‌ها |
-|---------|----------|------------|------------|
-| کارشناسی ارشد *(در حال تحصیل)* | مدیریت کارآفرینی | دانشگاه تهران (مجازی) | ۱۴۰۴ — |
-| کارشناسی | مهندسی نرم‌افزار کامپیوتر | پیام نور | ۱۳۸۰ – ۱۳۸۴ |
-
----
-
-### 💼 سوابق کاری
-
-| 🏢 شرکت | 💼 نقش | 📅 بازه زمانی | 📝 وظایف و دستاوردها |
-|----------|--------|---------------|----------------------|
-| نیکان مهر پردازش افزا | DevOps Engineer | تیر ۱۴۰۲ – حالا | طراحی و پیاده‌سازی معماری میکروسرویس و مانیتورینگ سرویس‌ها |
-| استارتاپ اکیپ | Project Manager & Scrum Master | آبان ۱۳۹۸ – تیر ۱۴۰۲ | مدیریت پروژه‌ها و هدایت تیم‌های چندتخصصی در فرآیندهای Agile |
-| نویان پردازش | Data Visualization Engineer | فروردین ۱۳۹۶ – آبان ۱۳۹۸ | طراحی و توسعه داشبوردهای تحلیلی و تعاملی |
-| تصمیم یاران | Backend Developer | اردیبهشت ۱۳۹۲ – اسفند ۱۳۹۶ | توسعه APIهای مقیاس‌پذیر با PHP و Python |
-| گروه فناوری راهبرد | Web Developer | تیر ۱۳۸۷ – اردیبهشت ۱۳۹۲ | طراحی و توسعه سیستم‌ها و برنامه‌های وب |
-| فریلنسر | Web Developer | مهر ۱۳۸۴ – تیر ۱۳۸۷ | پروژه‌های مستقل طراحی و توسعه وب |
-
----
-
-### 🌍 زبان‌ها
-
-| 🌐 زبان | 💬 سطح مهارت |
-|----------|---------------|
-| 🇦🇿 آذری | زبان مادری |
-| 🇮🇷 فارسی | زبان مادری |
-| 🇬🇧 انگلیسی | متوسط‌رو‌به‌بالا (قابلیت‌کاری) |
-| 🇹🇷 ترکی استانبولی | متوسط |
-
----
-
-### 🧬 ویژگی‌های شخصی
-
-- **آرام، منظم، پرانرژی**  
-- **همکاری‌محور و متمرکز بر یادگیری جمعی**  
-- مستندسازی حرفه‌ای را **عشق می‌دانم**  
-- **تفکر سیستم‌محور:** کد + فرآیند + کسب‌وکار = موفقیت  
-- حل مسئله با رویکرد **داده‌محور و خلاق**  
-- تعهد به **بهبود مستمر** در هر سه لایه فنی، تیمی و کسب‌وکاری  
-
----
-
-### 🎯 به دنبال چه هستم؟
-
-- ساخت **سیستم‌های فنی قوی و مقیاس‌پذیر**  
-- طراحی **تجربه کاربری عالی**  
-- اجرای **استراتژی‌های رشد هوشمند**  
-- رهبری **تیم‌های چابک و هم‌افزا**  
-- اگر تیم شما به کسی نیاز دارد که **هم کد بزند، هم فرآیند بسازد، هم بازار را بشناسد و هم تیم را متحد کند** — من همین‌جام.
-
----
+<div align="center">
+  <sub>Built with ❤️ by Samad Elmakchi</sub>
+</div>
