@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/6169366?v=4" alt="Samad Elmakchi" width="200" style="border-radius: 50%;">
-  
+<div align="center"> 
   # 🐍 Samad Elmakchi | Python Developer
   
   ### Professional Python Developer | AI/ML Specialist | Data Scientist
@@ -236,29 +234,6 @@ I believe in writing clean, documented, and testable code following **PEP8** sta
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samadelmakchi&layout=compact&theme=radical" alt="Top Languages">
 </div>
-
----
-
-## 📫 Connect with Me
-
-<div align="center">
-  
-[![Website](https://img.shields.io/badge/Website-samadelmakchi.github.io-22c55e?style=for-the-badge&logo=vercel&logoColor=white)](https://samadelmakchi.github.io/)
-[![GitHub](https://img.shields.io/badge/GitHub-samadelmakchi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samadelmakchi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-samad--elmakchi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samad-elmakchi)
-[![Instagram](https://img.shields.io/badge/Instagram-samad.elmakchi-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/samad.elmakchi)
-[![Telegram](https://img.shields.io/badge/Telegram-samadelmakchi-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/samadelmakchi)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-989141189645-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/989141189645)
-[![X](https://img.shields.io/badge/X-elmakchi-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/elmakchi)
-[![Gmail](https://img.shields.io/badge/Gmail-samad.elmakchi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samad.elmakchi@gmail.com)
-
-</div>
-
----
-
-## 📝 Blog & Articles
-
-- 🔗 **[Website](https://samadelmakchi.github.io/)** - Portfolio and Blog
 
 ---
 
