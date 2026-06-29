@@ -25,7 +25,7 @@ I am a **Professional Python Developer** with over **20 years** of experience in
 
 | Area | Technologies |
 |------|--------------|
-| 🐍 **Backend Development** | Django, FastAPI, Flask, SQLAlchemy |
+| 🐍 **Backend Development** | Flask, FastAPI, Flask, SQLAlchemy |
 | 🧠 **Machine Learning & Deep Learning** | PyTorch, TensorFlow, Scikit-learn, XGBoost |
 | 📊 **Data Science** | Pandas, NumPy, Polars, Matplotlib, Seaborn, Plotly |
 | 🐳 **Automation & Deployment** | Docker, GitHub Actions, CI/CD, Supervisor |
@@ -181,9 +181,8 @@ I believe in writing clean, documented, and testable code following **PEP8** sta
 ### Python Backend
 | Technology | Proficiency |
 |------------|-------------|
-| Django / DRF | 92% |
+| Flask / SQLAlchemy | 93% |
 | FastAPI | 88% |
-| Flask / SQLAlchemy | 85% |
 | PostgreSQL / Redis | 88% |
 | RESTful / GraphQL | 90% |
 
@@ -220,21 +219,11 @@ I believe in writing clean, documented, and testable code following **PEP8** sta
 
 | Role | Description |
 |------|-------------|
-| **Senior Python Developer** | Web application development with Django, FastAPI, Flask. Microservices, RESTful API, WebSocket, PostgreSQL/Redis optimization. |
+| **Senior Python Developer** | Web application development with FastAPI, Flask. Microservices, RESTful API, WebSocket, PostgreSQL/Redis optimization. |
 | **Machine Learning Specialist** | Deep learning models with PyTorch/TensorFlow for financial forecasting, sentiment analysis, recommender systems, NLP. |
 | **Data Science Specialist** | BI dashboards with Streamlit/Plotly, transactional data analysis with Pandas, forecasting systems, automated reporting. |
 | **Scrum Master & Product Owner** | Team management with Scrum/Kanban, Jira, Confluence, Miro. |
 | **Automation & Deployment Specialist** | CI/CD pipelines with GitHub Actions, Docker containerization, VPS deployment, Python automation. |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samadelmakchi&show_icons=true&theme=radical" alt="GitHub Stats">
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samadelmakchi&layout=compact&theme=radical" alt="Top Languages">
-</div>
 
 ---
 
