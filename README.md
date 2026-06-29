@@ -1,104 +1,250 @@
-# 🌐 Samad Elmakchi | DevOps Engineer & Full Stack Developer
+# 🐍 Samad Elmakchi | Python Developer Portfolio
 
-[![Website](https://img.shields.io/badge/Website-elmakchi.ir-blue?style=flat-square&logo=google-chrome)](https://elmakchi.ir/)
-[![GitHub](https://img.shields.io/badge/GitHub-samadelmakchi-181717?style=flat-square&logo=github)](https://github.com/samadelmakchi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-samad--elmakchi-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/samad-elmakchi)
-[![Instagram](https://img.shields.io/badge/Instagram-samad.elmakchi-E4405F?style=flat-square&logo=instagram)](https://www.instagram.com/samad.elmakchi)
-
-> **سلام!** من **صمد المکچی** هستم، مهندس DevOps، توسعه‌دهنده Full Stack و متخصص سئو با بیش از **۲۰ سال** تجربه در اکوسیستم فناوری. تخصص من در سه حوزه **DevOps**، **Full Stack Development** و **SEO & Digital Marketing** قرار دارد.
-
----
-
-## 🧑‍💻 درباره من
-
-من یک مهندس نرم‌افزار با رویکرد "زیرساخت به عنوان کد" (Infrastructure as Code) و علاقه به خلق سیستم‌های قابل اطمینان، مقیاس‌پذیر و خودکار هستم. از طراحی معماری‌های پیچیده بک‌اند و پیاده‌سازی pipeline‌های CI/CD تا مدیریت کلاسترهای Kubernetes و بهینه‌سازی سئو برای رشد ارگانیک، در تمام این حوزه‌ها تجربه عملی دارم.
-
--   **📍 مکان:** تبریز، ایران
--   **💼 وضعیت:** آماده همکاری (فریلنسر)
--   **🎯 تخصص اصلی:** DevOps & Full Stack
--   **⏳ تجربه:** بیش از ۲۰ سال
+<div align="center">
+  <img src="samad-elmakchi.jpg" alt="Samad Elmakchi" width="200" style="border-radius: 50%;">
+  
+  ## Professional Python Developer | AI/ML Specialist | Data Scientist
+  
+  [![GitHub followers](https://img.shields.io/github/followers/samadelmakchi?style=social)](https://github.com/samadelmakchi)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/samad-elmakchi)
+  [![Instagram](https://img.shields.io/badge/Instagram-Follow-pink?style=flat&logo=instagram)](https://www.instagram.com/samad.elmakchi)
+  [![Telegram](https://img.shields.io/badge/Telegram-Contact-blue?style=flat&logo=telegram)](https://t.me/samadelmakchi)
+  
+  > *"Clean code, documented, testable — following PEP8, Type Hints, and Design Patterns."*
+</div>
 
 ---
 
-## 🛠️ مهارت‌ها
+## 👨‍💻 About Me
 
-در زیر مجموعه‌ای از مهارت‌ها و فناوری‌هایی که با آنها کار می‌کنم، آورده شده است.
+I am a **Professional Python Developer** with over **20 years** of experience in the technology ecosystem. My expertise spans four main areas of Python:
 
-### 🔄 DevOps & Infrastructure
+| Area | Technologies |
+|------|--------------|
+| 🐍 **Backend Development** | Django, FastAPI, Flask, SQLAlchemy |
+| 🧠 **Machine Learning & Deep Learning** | PyTorch, TensorFlow, Scikit-learn, XGBoost |
+| 📊 **Data Science** | Pandas, NumPy, Polars, Matplotlib, Seaborn, Plotly |
+| 🐳 **Automation & Deployment** | Docker, GitHub Actions, CI/CD, Supervisor |
 
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-### 💻 Full Stack Development
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-### 📈 SEO & Digital Marketing
-
-![Technical SEO](https://img.shields.io/badge/-Technical%20SEO-FF8800?style=flat-square&logo=google&logoColor=white)
-![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-E37400?style=flat-square&logo=google-analytics&logoColor=white)
-![Google Ads](https://img.shields.io/badge/-Google%20Ads-4285F4?style=flat-square&logo=google-ads&logoColor=white)
-![Ahrefs](https://img.shields.io/badge/-Ahrefs-5C3D2E?style=flat-square&logo=ahrefs&logoColor=white)
-![SEMrush](https://img.shields.io/badge/-SEMrush-FF6B00?style=flat-square&logo=semrush&logoColor=white)
-
-### 🏛️ معماری و مدیریت
-
--   **معماری:** Microservices, Clean Architecture, DDD, CQRS, Event-Driven
--   **مدیریت:** Scrum, Kanban, Agile, Jira, Confluence, Miro
--   **AI:** AI Agent Design, n8n Workflow, ML Pipeline, TensorFlow, OpenCV
+I believe in writing clean, documented, and testable code following **PEP8** standards, using **Type Hints** and **Design Patterns** in Python projects.
 
 ---
 
-## 📂 پروژه‌های شاخص
+## 🚀 Top 6 Python Projects
 
-| نام پروژه | توضیحات | تکنولوژی‌ها |
-| :--- | :--- | :--- |
-| **پلتفرم CI/CD سازمانی** | پیاده‌سازی کامل pipeline اتوماتیک با GitHub Actions، Docker Registry، تست‌های خودکار و deploy به Kubernetes. | `GitHub Actions`, `Docker`, `K8s`, `Helm` |
-| **سیستم مدیریت محتوای هوشمند** | طراحی و پیاده‌سازی CMS با React، Laravel و AI برای تولید محتوای خودکار و بهینه‌سازی سئو. | `React`, `Laravel`, `AI`, `SEO` |
-| **استراتژی سئو و رشد ارگانیک** | طراحی و اجرای استراتژی سئو جامع شامل Technical SEO، تولید محتوا و لینک‌سازی برای افزایش ۳۰۰٪ ترافیک. | `Technical SEO`, `Content Strategy`, `Link Building`, `GA4` |
-| **زیرساخت ابری با Terraform** | طراحی و پیاده‌سازی زیرساخت کامل AWS با Terraform و Ansible برای configuration management. | `Terraform`, `Ansible`, `AWS`, `IaC` |
-| **سیستم API مقیاس‌پذیر با Laravel** | طراحی و پیاده‌سازی RESTful API بر اساس Clean Architecture، DDD، Redis Caching و مستندسازی OpenAPI. | `Laravel`, `PostgreSQL`, `Redis`, `OpenAPI` |
-| **بهینه‌سازی برای AI Search** | پیاده‌سازی استراتژی AEO و GEO برای نمایش در AI Overviews گوگل و ChatGPT/Gemini. | `AEO`, `GEO`, `AI Overviews`, `llms.txt` |
+### 1. 🐳 Automated Deployment with Docker + GitHub Actions
 
-برای مشاهده تمام پروژه‌ها، به **[پروفایل گیت‌هاب من](https://github.com/samadelmakchi)** مراجعه کنید.
+**Problem Solved:** With every `git push` on the main branch, the Python project is automatically tested, built, and deployed on VPS with Docker. Reducing deployment time from **30 minutes to 2 minutes**.
 
----
+**Key Technologies:**
+- Docker & Docker Compose
+- GitHub Actions / GitLab CI
+- Supervisor / systemd
+- GitHub Secrets
 
-## 📞 ارتباط با من
-
-اگر به همکاری در پروژه‌های DevOps، Full Stack، SEO یا مشاوره مدیریت محصول علاقه‌مند هستید، از طریق یکی از راه‌های زیر با من در تماس باشید.
-
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/989141189645)
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/samadelmakchi)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samad-elmakchi)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samadelmakchi)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/samad.elmakchi)
-
-**یا از وبسایت رسمی من دیدن کنید:** [elmakchi.ir](https://elmakchi.ir/)
+**Technical Highlights:**
+- Multi-stage Dockerfile for **70% image size reduction**
+- Smart `entrypoint.sh` script for automatic database migrations
+- Secure token management with GitHub Secrets
+- Auto-restart with Supervisor
+- Telegram deployment notifications
 
 ---
 
-## 📜 مجوز
+### 2. 📈 Macroeconomic Indicators Forecasting
 
-این مخزن شامل فایل‌های کد منبع وبسایت شخصی من است. شما می‌توانید از آن برای مطالعه و الگوبرداری استفاده کنید.
+**Problem Solved:** Combining classical econometric models with deep learning to predict gold, dollar, and oil prices with higher accuracy than traditional models.
+
+**Key Technologies:**
+- Statsmodels (VAR, ARIMA)
+- Arch (GARCH)
+- PyTorch / TensorFlow (LSTM, Transformer)
+- yfinance / Alpha Vantage API
+- Prophet (Facebook)
+- Ray (Hyperparameter Optimization)
+- XGBoost (Market Regime Detection)
+
+**Technical Highlights:**
+- Backtesting Engine with transaction costs and slippage
+- Market regime detection (bullish, bearish, neutral) with XGBoost
+- Ensemble approach with different models per regime
+- Streamlit dashboard for prediction results
+- Historical data storage in InfluxDB
 
 ---
 
-**✨ ساخته شده با ❤️ و بسیاری از قهوه‌های تلخ**
+### 3. 🤖 Unified Inbox for 6 Messengers
+
+**Problem Solved:** Automated receiving and responding from 6 platforms (WhatsApp, Telegram, Instagram, Rubika, Bale, Eitaa) using Generative AI (RAG) with conversation history. Reducing response time from **10 minutes to 10 seconds**.
+
+**Key Technologies:**
+- Telethon (Telegram)
+- instagrapi (Instagram)
+- pywhatkit / selenium (WhatsApp Web)
+- Rubika API / Bale API / Eitaa API
+- LangChain (RAG)
+- ChromaDB (Vector Database)
+- HuggingFace Transformers (Llama/Mistral)
+- FastAPI
+
+**Technical Highlights:**
+- Adapter Pattern for unified connection to all messengers
+- Conversation Memory for context-aware responses
+- Local models instead of cloud APIs for data privacy
+- Persian language detection and timely responses
+- File, image, and inline keyboard support
+
+---
+
+### 4. 📊 Instagram Growth & Engagement Dashboard
+
+**Problem Solved:** Automatic retrieval of advanced metrics (engagement rate, reach, follower growth rate, peak activity hours) and actionable recommendations to improve content and increase engagement by up to **40%**.
+
+**Key Technologies:**
+- Instagrapi
+- Pandas / Polars
+- Plotly / Streamlit
+- Prophet
+- HuggingFace Transformers
+- ReportLab
+
+**Technical Highlights:**
+- Sentiment Analysis of comments and DMs with Persian language models
+- Best posting time detection based on historical engagement patterns
+- Automated weekly PDF report generation and email delivery
+- Influencer identification
+- Engagement graph visualization
+
+---
+
+### 5. 📋 WooCommerce Sales Management Dashboard
+
+**Problem Solved:** Direct connection to WooCommerce database and REST API, extracting order, product, and customer data, displaying key KPIs (AOV, Conversion Rate), best-selling products, and inventory status in real-time.
+
+**Key Technologies:**
+- WooCommerce REST API
+- SQLAlchemy
+- Pandas
+- Streamlit / Dash
+- APScheduler
+- Plotly
+- Prophet
+
+**Technical Highlights:**
+- Abstraction layer for data from two sources (API and direct database)
+- Net profit calculation with product cost deduction
+- Monthly, daily, and hourly sales trend charts
+- Sales forecasting with Prophet
+- Inventory alert system
+- Excel/CSV report export
+- Star Schema data modeling
+
+---
+
+### 6. 🪙 AI-Powered Crypto Gem Hunter
+
+**Problem Solved:** Automated scanning of newly listed coins on exchanges (Binance, Dexscreener, etc.) with multi-factor analysis (technical, sentiment, social networks) to identify coins with at least **50% growth potential in 7 days**.
+
+**Key Technologies:**
+- ccxt
+- DexScreener API / CoinGecko API
+- Tweepy
+- BeautifulSoup / Scrapy
+- scikit-learn / XGBoost
+- HuggingFace Transformers
+- TA-Lib
+- Redis
+- Streamlit
+- APScheduler
+
+**Technical Highlights:**
+- ETL data pipeline running every 5 minutes
+- Classification model trained on historical data
+- Scoring system based on:
+  - Liquidity
+  - Holders count
+  - Twitter sentiment analysis
+  - Technical indicators (RSI, MACD, volume)
+- Suspicious pump detection and filtering
+- Prioritized results with "Deep Analysis" button
+- Comprehensive success factor reports
+- Telegram alert system for high-score coins
+
+---
+
+## 🛠️ Technical Skills
+
+### Python Backend
+| Technology | Proficiency |
+|------------|-------------|
+| Django / DRF | 92% |
+| FastAPI | 88% |
+| Flask / SQLAlchemy | 85% |
+| PostgreSQL / Redis | 88% |
+| RESTful / GraphQL | 90% |
+
+### AI & Machine Learning
+| Technology | Proficiency |
+|------------|-------------|
+| PyTorch / TensorFlow | 85% |
+| Scikit-learn / XGBoost | 90% |
+| NLP / LLM / RAG | 80% |
+| Time Series / Forecasting | 85% |
+| LangChain / ChromaDB | 78% |
+
+### Data Science
+| Technology | Proficiency |
+|------------|-------------|
+| Pandas / Polars | 92% |
+| NumPy / SciPy | 90% |
+| Matplotlib / Seaborn | 85% |
+| Plotly / Streamlit | 82% |
+| Statsmodels / Prophet | 80% |
+
+### Automation & Deployment
+| Technology | Proficiency |
+|------------|-------------|
+| Docker / Compose | 95% |
+| GitHub Actions / CI/CD | 88% |
+| Supervisor / systemd | 85% |
+| Linux / Bash | 88% |
+| Web Scraping | 85% |
+
+---
+
+## 📈 Experience
+
+| Role | Description |
+|------|-------------|
+| **Senior Python Developer** | Web application development with Django, FastAPI, Flask. Microservices, RESTful API, WebSocket, PostgreSQL/Redis optimization. |
+| **Machine Learning Specialist** | Deep learning models with PyTorch/TensorFlow for financial forecasting, sentiment analysis, recommender systems, NLP. |
+| **Data Science Specialist** | BI dashboards with Streamlit/Plotly, transactional data analysis with Pandas, forecasting systems, automated reporting. |
+| **Scrum Master & Product Owner** | Team management with Scrum/Kanban, Jira, Confluence, Miro. |
+| **Automation & Deployment Specialist** | CI/CD pipelines with GitHub Actions, Docker containerization, VPS deployment, Python automation. |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samadelmakchi&show_icons=true&theme=radical" alt="GitHub Stats">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samadelmakchi&layout=compact&theme=radical" alt="Top Languages">
+</div>
+
+---
+
+## 📫 Connect with Me
+
+- **Email:** samad@elmakchi.ir
+- **LinkedIn:** [samad-elmakchi](https://www.linkedin.com/in/samad-elmakchi)
+- **GitHub:** [samadelmakchi](https://github.com/samadelmakchi)
+- **Telegram:** [samadelmakchi](https://t.me/samadelmakchi)
+- **Instagram:** [samad.elmakchi](https://www.instagram.com/samad.elmakchi)
+- **Website:** [elmakchi.ir](https://elmakchi.ir)
+
+---
+
+<div align="center">
+  <sub>Built with ❤️ and Python</sub>
+</div>
