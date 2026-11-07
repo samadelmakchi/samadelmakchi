@@ -297,5 +297,4 @@
   <sub>ساخته‌شده با ❤️ و Python</sub>
   <br>
   <sub>© ۲۰۲۴ صمد المکچی</sub>
-  [فارسی](README.fa.md) | [English](README.md)
 </div>
