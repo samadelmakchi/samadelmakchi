@@ -1,8 +1,8 @@
 <div align="center"> 
   
-  # 🐍 Samad Elmakchi | Python Developer
+  # 🐍 Samad Elmakchi | Full-Stack Developer & Software Architect
   
-  ### Professional Python Developer | AI/ML Specialist | Data Scientist
+  ### Full-Stack Developer · Financial Markets Programmer · Software Architect
   
   [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/samadelmakchi)
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samad-elmakchi)
@@ -21,86 +21,98 @@
 
 ## 👨‍💻 About Me
 
-I am a **Professional Python Developer** with over **20 years** of experience in the technology ecosystem. My expertise spans four main areas of Python:
+I am a **Full-Stack Developer**, **Financial Markets Programmer**, and **Software Architect** with over **25 years** of hands-on experience designing, developing, and delivering scalable, resilient systems. My expertise spans five main areas:
 
 | Area | Technologies |
 |------|--------------|
-| 🐍 **Backend Development** | Flask, FastAPI, Flask, SQLAlchemy |
-| 🧠 **Machine Learning & Deep Learning** | PyTorch, TensorFlow, Scikit-learn, XGBoost |
-| 📊 **Data Science** | Pandas, NumPy, Polars, Matplotlib, Seaborn, Plotly |
-| 🐳 **Automation & Deployment** | Docker, GitHub Actions, CI/CD, Supervisor |
+| 🐍 **Backend & Architecture** | FastAPI, Flask, SQLAlchemy, Microservices, DDD, Event-Driven, Resilience Patterns |
+| 🎨 **Frontend** | React, Next.js, JavaScript, Tailwind CSS, Bootstrap |
+| 📈 **Financial Markets** | MQL5, MQL4, Pine Script, backtrader, vectorbt, MetaTrader5 API, TA-Lib |
+| 🧠 **Machine Learning & AI** | PyTorch, TensorFlow, Scikit-learn, XGBoost, LangChain, ChromaDB |
+| 🐳 **DevOps & Automation** | Docker, GitHub Actions, CI/CD, Ansible, Prometheus/Grafana |
 
-I believe in writing clean, documented, and testable code following **PEP8** standards, using **Type Hints** and **Design Patterns** in Python projects.
+I believe in writing clean, documented, and testable code following **PEP8**, **Type Hints**, **SOLID Principles**, and **Design Patterns**.
 
 ---
 
-## 🚀 Top 6 Python Projects
+## 🎓 Education
 
-### 1. 🐳 Automated Deployment with Docker + GitHub Actions
+- **M.Sc. in Entrepreneurship Management** — University of Tehran
+- **B.Sc. in Computer Software Engineering** — Payame Noor University
 
-**Problem Solved:** With every `git push` on the main branch, the Python project is automatically tested, built, and deployed on VPS with Docker. Reducing deployment time from **30 minutes to 2 minutes**.
+---
+
+## 🚀 Top 7 Projects
+
+### 1. 🏢 Enterprise Microservices Platform (ERP/CRM) — Backend Design & Development
+
+**Problem Solved:** Designed and built a microservices architecture for an organization with 50+ services, serving enterprise ERP, CRM, and LMS workloads.
 
 **Key Technologies:**
-- Docker & Docker Compose
-- GitHub Actions / GitLab CI
-- Supervisor / systemd
-- GitHub Secrets
+- FastAPI, SQLAlchemy, Alembic
+- PostgreSQL, Redis, RabbitMQ, Celery
+- Domain-Driven Design, Event-Driven Architecture
+- Pytest, Locust, Docker, GitHub Actions
 
 **Technical Highlights:**
-- Multi-stage Dockerfile for **70% image size reduction**
-- Smart `entrypoint.sh` script for automatic database migrations
-- Secure token management with GitHub Secrets
-- Auto-restart with Supervisor
-- Telegram deployment notifications
+- Microservices architecture with **Domain-Driven Design** across 50+ documented RESTful APIs
+- **Event-Driven** communication with RabbitMQ, **Circuit Breaker** and **Retry** resilience patterns
+- Data modeling and query optimization with PostgreSQL + SQLAlchemy/Alembic; caching with Redis
+- Automated testing with Pytest and load testing with Locust; containerized deployment with Docker and CI/CD via GitHub Actions
 
 ---
 
-### 2. 📈 Macroeconomic Indicators Forecasting
+### 2. 📈 Macroeconomic Indicators Forecasting — Backend Service & Prediction API
 
-**Problem Solved:** Combining classical econometric models with deep learning to predict gold, dollar, and oil prices with higher accuracy than traditional models.
+**Problem Solved:** Combining classical econometric models with deep learning to predict gold, dollar, and oil prices with higher accuracy than traditional models, exposed as a production API.
 
 **Key Technologies:**
-- Statsmodels (VAR, ARIMA)
-- Arch (GARCH)
-- PyTorch / TensorFlow (LSTM, Transformer)
-- yfinance / Alpha Vantage API
-- Prophet (Facebook)
-- Ray (Hyperparameter Optimization)
-- XGBoost (Market Regime Detection)
+- FastAPI, Pydantic
+- Statsmodels (VAR, ARIMA), Prophet
+- PyTorch (LSTM)
+- Pandas, Celery, Redis, Docker
 
 **Technical Highlights:**
-- Backtesting Engine with transaction costs and slippage
-- Market regime detection (bullish, bearish, neutral) with XGBoost
-- Ensemble approach with different models per regime
-- Streamlit dashboard for prediction results
-- Historical data storage in InfluxDB
+- Ensemble of VAR/ARIMA with LSTM, served through a **FastAPI** prediction API
+- **Event-Driven** architecture for daily data ingestion and scheduled model retraining with Celery + Redis
+- Data pipeline with Pandas and strict input/output validation with Pydantic
 
 ---
 
-### 3. 🤖 Unified Inbox for 6 Messengers
+### 3. 🤖 Unified Inbox for 6 Messengers with LLM & RAG — Backend & Service Orchestration
 
 **Problem Solved:** Automated receiving and responding from 6 platforms (WhatsApp, Telegram, Instagram, Rubika, Bale, Eitaa) using Generative AI (RAG) with conversation history. Reducing response time from **10 minutes to 10 seconds**.
 
 **Key Technologies:**
-- Telethon (Telegram)
-- instagrapi (Instagram)
-- pywhatkit / selenium (WhatsApp Web)
-- Rubika API / Bale API / Eitaa API
-- LangChain (RAG)
-- ChromaDB (Vector Database)
-- HuggingFace Transformers (Llama/Mistral)
-- FastAPI
+- FastAPI, Pydantic
+- LangChain, ChromaDB
+- Telethon
+- PostgreSQL, Redis, Celery, Docker
 
 **Technical Highlights:**
-- Adapter Pattern for unified connection to all messengers
-- Conversation Memory for context-aware responses
-- Local models instead of cloud APIs for data privacy
-- Persian language detection and timely responses
-- File, image, and inline keyboard support
+- Backend service orchestrating inbound/outbound messages across 6 messengers via an **Adapter Pattern**
+- **RAG** pipeline with LangChain + ChromaDB on an **Event-Driven** architecture with Celery/Redis queues
+- Conversation state management in PostgreSQL; strict validation with Pydantic
 
 ---
 
-### 4. 📊 Instagram Growth & Engagement Dashboard
+### 4. 🐳 Automated Deployment with Docker + GitHub Actions — Continuous Delivery Backend
+
+**Problem Solved:** With every `git push` on the main branch, the Python project is automatically tested, built, and deployed on VPS with Docker, reducing deployment time from **30 minutes to 2 minutes**.
+
+**Key Technologies:**
+- Python, Ansible, GitHub Actions
+- Docker, Docker Compose, Portainer
+- Nginx, Gunicorn, PostgreSQL
+
+**Technical Highlights:**
+- Backend automation service/scripts for deployment with Ansible and GitHub Actions on Linux servers
+- **Blue-Green Deployment** for near-zero downtime with automatic health checks
+- Multi-stage Dockerfile for **70% image size reduction**; secure token management with GitHub Secrets
+
+---
+
+### 5. 📊 Instagram Growth & Engagement Dashboard
 
 **Problem Solved:** Automatic retrieval of advanced metrics (engagement rate, reach, follower growth rate, peak activity hours) and actionable recommendations to improve content and increase engagement by up to **40%**.
 
@@ -116,12 +128,11 @@ I believe in writing clean, documented, and testable code following **PEP8** sta
 - Sentiment Analysis of comments and DMs with Persian language models
 - Best posting time detection based on historical engagement patterns
 - Automated weekly PDF report generation and email delivery
-- Influencer identification
-- Engagement graph visualization
+- Influencer identification and engagement graph visualization
 
 ---
 
-### 5. 📋 WooCommerce Sales Management Dashboard
+### 6. 📋 WooCommerce Sales Management Dashboard
 
 **Problem Solved:** Direct connection to WooCommerce database and REST API, extracting order, product, and customer data, displaying key KPIs (AOV, Conversion Rate), best-selling products, and inventory status in real-time.
 
@@ -139,13 +150,11 @@ I believe in writing clean, documented, and testable code following **PEP8** sta
 - Net profit calculation with product cost deduction
 - Monthly, daily, and hourly sales trend charts
 - Sales forecasting with Prophet
-- Inventory alert system
-- Excel/CSV report export
-- Star Schema data modeling
+- Inventory alert system and Excel/CSV report export
 
 ---
 
-### 6. 🪙 AI-Powered Crypto Gem Hunter
+### 7. 🪙 AI-Powered Crypto Gem Hunter
 
 **Problem Solved:** Automated scanning of newly listed coins on exchanges (Binance, Dexscreener, etc.) with multi-factor analysis (technical, sentiment, social networks) to identify coins with at least **50% growth potential in 7 days**.
 
@@ -164,27 +173,50 @@ I believe in writing clean, documented, and testable code following **PEP8** sta
 **Technical Highlights:**
 - ETL data pipeline running every 5 minutes
 - Classification model trained on historical data
-- Scoring system based on:
-  - Liquidity
-  - Holders count
-  - Twitter sentiment analysis
-  - Technical indicators (RSI, MACD, volume)
+- Scoring system based on liquidity, holders count, Twitter sentiment, and technical indicators (RSI, MACD, volume)
 - Suspicious pump detection and filtering
-- Prioritized results with "Deep Analysis" button
-- Comprehensive success factor reports
 - Telegram alert system for high-score coins
+
+---
+
+### 8. 💹 Trading Bot & Strategy Backtesting — MQL5 / Python
+
+**Problem Solved:** Developed an automated trading bot with risk management and ran rigorous strategy backtests to validate performance before live deployment.
+
+**Key Technologies:**
+- MQL5, MQL4
+- Python, backtrader, vectorbt
+- pandas, MetaTrader5 API
+- Pine Script
+
+**Technical Highlights:**
+- MQL5 trading bot with risk management and automated order execution
+- Backtesting and strategy optimization with **backtrader/vectorbt**
+- **Walk-Forward Analysis** for out-of-sample validation
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Python Backend
+### Backend & Architecture
 | Technology | Proficiency |
 |------------|-------------|
-| Flask / SQLAlchemy | 93% |
-| FastAPI | 88% |
-| PostgreSQL / Redis | 88% |
-| RESTful / GraphQL | 90% |
+| FastAPI / Flask | 93% |
+| SQLAlchemy / Alembic | 90% |
+| PostgreSQL / Redis | 90% |
+| RESTful API / Microservices | 92% |
+| Domain-Driven Design / Event-Driven | 85% |
+| Circuit Breaker / Retry | 85% |
+
+### Financial Markets Programming
+| Technology | Proficiency |
+|------------|-------------|
+| MQL5 / MQL4 | 85% |
+| Pine Script | 80% |
+| Python for Finance (backtrader, vectorbt, ccxt) | 85% |
+| MetaTrader5 API / TradingView Webhooks | 80% |
+| Backtesting / Walk-Forward / Risk Management | 85% |
+| TA-Lib / pandas-ta | 82% |
 
 ### AI & Machine Learning
 | Technology | Proficiency |
@@ -204,14 +236,23 @@ I believe in writing clean, documented, and testable code following **PEP8** sta
 | Plotly / Streamlit | 82% |
 | Statsmodels / Prophet | 80% |
 
-### Automation & Deployment
+### Frontend
+| Technology | Proficiency |
+|------------|-------------|
+| HTML5 / CSS3 / JavaScript | 88% |
+| React / Next.js | 80% |
+| Tailwind CSS / Bootstrap | 85% |
+| Axios / ECharts | 80% |
+
+### DevOps & Deployment
 | Technology | Proficiency |
 |------------|-------------|
 | Docker / Compose | 95% |
 | GitHub Actions / CI/CD | 88% |
+| Ansible | 85% |
 | Supervisor / systemd | 85% |
 | Linux / Bash | 88% |
-| Web Scraping | 85% |
+| Prometheus / Grafana | 80% |
 
 ---
 
@@ -219,11 +260,36 @@ I believe in writing clean, documented, and testable code following **PEP8** sta
 
 | Role | Description |
 |------|-------------|
-| **Senior Python Developer** | Web application development with FastAPI, Flask. Microservices, RESTful API, WebSocket, PostgreSQL/Redis optimization. |
+| **Full-Stack Developer & Software Architect** | End-to-end design and delivery of web applications with FastAPI, Flask, React, Next.js. Microservices, DDD, RESTful APIs, WebSocket, PostgreSQL/Redis optimization. |
+| **Financial Markets Programmer** | MQL5/MQL4 trading bots, Pine Script indicators, Python backtesting (backtrader, vectorbt), MetaTrader5/TradingView integration, risk management. |
 | **Machine Learning Specialist** | Deep learning models with PyTorch/TensorFlow for financial forecasting, sentiment analysis, recommender systems, NLP. |
 | **Data Science Specialist** | BI dashboards with Streamlit/Plotly, transactional data analysis with Pandas, forecasting systems, automated reporting. |
 | **Scrum Master & Product Owner** | Team management with Scrum/Kanban, Jira, Confluence, Miro. |
-| **Automation & Deployment Specialist** | CI/CD pipelines with GitHub Actions, Docker containerization, VPS deployment, Python automation. |
+| **DevOps & Automation Specialist** | CI/CD pipelines with GitHub Actions, Docker containerization, Ansible, VPS deployment, Python automation. |
+
+---
+
+## 🏢 Employers & Clients
+
+| Industry | Organizations |
+|----------|---------------|
+| **Healthcare** | Teb Afarin |
+| **Industry & Manufacturing** | Aghayari Machinery · Tirazheh Print Tabriz · Pakat Nima |
+| **Technology & Innovation** | Nikan Mehr · Azad University Growth Center |
+| **Academic & Research** | Shahid Madani University · Tabriz University of Medical Sciences |
+
+---
+
+## 📊 Key Stats
+
+- **25+** years of experience
+- **50+** successful projects
+- **35+** employers and clients
+- **50+** production microservices and APIs
+- **100+** data models and APIs designed
+- **80%+** automated test coverage in key projects
+- **10+** enterprise CI/CD pipelines
+- **10+** trading strategies and trading bots
 
 ---
 
